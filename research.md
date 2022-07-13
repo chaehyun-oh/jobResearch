@@ -215,28 +215,99 @@
      - TypeScript, WASM 등 새로운 Front-End 기술에 대해 동료들와 함께 고민하고 싶으신 분
      - 더 나은 코드를 위해 항상 노력하고 협업을 즐기시는 분
 
+   
+
 10. NHN SOFT
 
-   - 주요업무
-     - 웹 서비스 자바스크립트 개발
-     - UI Component 및 Library
-     - Javascript Web Application
-     - Single Page Application
-   - 자격요건
-     - 자바스크립트 개발 포함하여 전체 개발경험 **2년 이상**
-     - HTML, CSS 등 W3C 웹표준 규격에 대한 이해와 사용능력
-     - ECMAScript, HTML5 API에 대한 이해와 사용능력
-     - Cross-Browsing 이슈 해결능력
-     - Javascript MV* 프레임웍(React.js, Vue.js, Angular.js) 개발 및 운영경험
-     - JavaScript 에 대한 깊은 이해
-   - 우대사항
-     - Full Javascript Web Application 설계 및 개발 경험자
-     - 자바스크립트 프레임워크 개발 경험자
-     - 고난도 성능 문제 진단 및 해결 경험자
-     - 오픈소스 공헌 및 관련 활동 경험자
-     - 자바스크립트 교육, 기술 아티클 작성 등 관련 활동 경험자 
+       - 주요업무
+         - 웹 서비스 자바스크립트 개발
+         - UI Component 및 Library
+         - Javascript Web Application
+         - Single Page Application
+
+       - 자격요건
+         - 자바스크립트 개발 포함하여 전체 개발경험 **2년 이상**
+         - HTML, CSS 등 W3C 웹표준 규격에 대한 이해와 사용능력
+         - ECMAScript, HTML5 API에 대한 이해와 사용능력
+         - Cross-Browsing 이슈 해결능력
+         - Javascript MV* 프레임웍(React.js, Vue.js, Angular.js) 개발 및 운영경험
+         - JavaScript 에 대한 깊은 이해
+
+       - 우대사항
+         - Full Javascript Web Application 설계 및 개발 경험자
+         - 자바스크립트 프레임워크 개발 경험자
+         - 고난도 성능 문제 진단 및 해결 경험자
+         - 오픈소스 공헌 및 관련 활동 경험자
+         - 자바스크립트 교육, 기술 아티클 작성 등 관련 활동 경험자 
+         
+         
 
 
+11. 라인 (Internal Platform Frontend Engineer)
+
+    - 주요업무
+      - LINE 서비스와 서비스를 구성하는 여러 요소들을 식별하고 관리할 수 있는 Metadata Registry 시스템 개발 및 운영
+      - LINE 서비스들의 모니터링 및 운영 자동화를 개선할 수 있는 다양한 운영 시스템 개발 및 운영
+      - 대량의 그리고 다양한 종류의 데이터들을 유저들이 쉽고 빠르게 검색하고 사용할 수 있는 기능 개발 및 운영
+      - 특히 유저들이 중요한 Data를 놓치지 않는 것에 대하여 함께 고민하고 개발
+    - 자격요건
+      - 2년 이상의 관련 경험을 보유하신 분
+      - React 또는 Vue 중 1개 이상의 사용 경험이 있으신 분
+      - REST API를 이용한 Web Application 개발 경험이 있으신 분
+      - Javascript, Typescript, HTML5, CSS3 등에 대한 기본 지식 및 이해도가 있으신 분
+      - 해외 출장 및 근무에 결격 사유 없으신 분
+    - 우대사항
+      - Data 시각화에 관심이 많거나 경험이 있으신 분
+      - 다양한 시각화 도구나 라이브러리(Grafana, Kibana, D3.js, chart.js 등)에 관심이 많거나 경험이 있으신 분
+      - 모니터링 도구 사용 경험이 있으신 분
+      - 자동화와 지속적인 개선에 흥미가 있으신 분
+      - 개발자들을 위한 도구 개발에 흥미가 있으신 분
+      - 외국어로 업무 진행이 가능하신 분 (영어, 일본어 중 1개 이상)
+
+    
+
+12. 라인 (Global Web Software Engineer (Front-end))
+
+    - 주요업무
+      - LINE의 웹서비스를 위한 프론트 서버 및 클라이언트 개발
+      - LINE의 프론트엔드 빌드/배포 플랫폼(LandPress)의 서버 및 클라이언트 개발/운영
+    - 자격요건
+      - 3년 이상의 프론트엔드 개발/운영 경험 혹은 이에 준하는 역량이 있으신 분
+      - JavaScript, HTML, CSS를 다루며 내부 동작 원리에 대한 관심이 있으신 분
+      - git을 이용한 코드 형상관리와 코드 리뷰 경험이 있으신 분
+      - Babel를 이용한 ES6+ 스펙의 사용 경험이 있으신 분
+      - React, Vue, Angular 등 MV*기반의 Framework을 이용한 실무 경험이 있으신 분
+      - Backend, Network, Database에 대한 기초적인 이해도가 있으신 분
+      - 해외 출장 및 근무에 결격 사유 없으신 분
+    - 우대사항
+      - Node.js 개발 경험이 있으신 분
+      - React Native 개발 경험이 있으신 분
+      - Javascript 오픈 소스에 기여 경험이 있으신 분
+      - 글로벌 서비스 개발 경험이 있으신 분
+      - 외국어로 업무 진행이 가능하신 분 (영어, 일본어 등)
+
+    
+
+13. 라인 (Web Platform Engineer (Front-end))
+
+    - 주요업무
+      - LINE의 웹 서비스를 위한 프론트엔드 CI/CD 플랫폼 개발 및 운영
+      - Jamstack 기반 서비스를 위한 Headless CMS 개발 및 운영
+      - 웹 서비스의 성능 측정 및 에러 수집을 위한 도구 개발 및 운영
+      - 플랫폼을 기반으로 하는 사내 서비스 개발 및 운영
+    - 자격요건
+      - 3년 이상의 프론트엔드 개발/운영 경험 혹은 이에 준하는 역량이 있으신 분
+      - JavaScript, HTML, CSS를 다루며 내부 동작 원리에 대한 관심이 있으신 분
+      - Git을 이용한 코드 형상관리와 코드 리뷰 경험이 있으신 분
+      - Babel를 이용한 ES6+ 스펙의 사용 경험이 있으신 분
+      - React, Vue, Angular 등 MV*기반의 Framework을 이용한 실무 경험이 있으신 분
+      - Backend, Network, Database에 대한 기초적인 이해도가 있으신 분
+      - 해외 출장 및 근무에 결격 사유 없으신 분
+    - 우대사항
+      - Node.js 개발 경험이 있으신 분
+      - Jamstack 기반 서비스 개발 경험이 있으신 분
+      - Javascript 오픈 소스에 기여 경험이 있으신 분
+      - 글로벌 서비스 개발 경험이 있으신 분
 
 
 
